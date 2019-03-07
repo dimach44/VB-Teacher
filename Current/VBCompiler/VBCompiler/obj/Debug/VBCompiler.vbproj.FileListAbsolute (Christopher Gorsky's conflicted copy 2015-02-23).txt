@@ -1,0 +1,17 @@
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Debug\VBCompiler.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Debug\VBCompiler.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Debug\VBCompiler.vbproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Debug\VBCompiler.exe
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Debug\VBCompiler.pdb
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Debug\VBCompiler.xml
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Debug\VBCompiler.exe
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Debug\VBCompiler.xml
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Debug\VBCompiler.pdb
+F:\VBCompiler\VBCompiler\bin\Debug\VBCompiler.exe.config
+F:\VBCompiler\VBCompiler\obj\Debug\VBCompiler.exe
+F:\VBCompiler\VBCompiler\obj\Debug\VBCompiler.xml
+F:\VBCompiler\VBCompiler\obj\Debug\VBCompiler.pdb
+F:\Dropbox\Dropbox\CS 245 Programs\Project 1\Current\VBCompiler\VBCompiler\bin\Debug\VBCompiler.exe.config
+F:\Dropbox\Dropbox\CS 245 Programs\Project 1\Current\VBCompiler\VBCompiler\obj\Debug\VBCompiler.exe
+F:\Dropbox\Dropbox\CS 245 Programs\Project 1\Current\VBCompiler\VBCompiler\obj\Debug\VBCompiler.xml
+F:\Dropbox\Dropbox\CS 245 Programs\Project 1\Current\VBCompiler\VBCompiler\obj\Debug\VBCompiler.pdb

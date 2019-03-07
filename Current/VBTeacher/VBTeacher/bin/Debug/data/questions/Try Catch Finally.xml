@@ -1,0 +1,19 @@
+<Test>
+	<Question>
+		<Title>What is the Try... Catch... Finally statement used for?</Title>
+		<Answer_0>Counting functions</Answer_0>
+		<Answer_1>Takes 2 array values and combines them</Answer_1>
+		<Answer_2>Looking for exceptions + clean up code</Answer_2>
+		<Answer_3>Adding system</Answer_3>
+		<Correct>2</Correct>
+	</Question>
+	
+	<Question>
+		<Title>Which part of the Try... Catch... Finally statement is optional?</Title>
+		<Answer_0>Try</Answer_0>
+		<Answer_1>Catch</Answer_1>
+		<Answer_2>Finally</Answer_2>
+		<Answer_3>B and C</Answer_3>
+		<Correct>3</Correct>
+	</Question>
+</Test>

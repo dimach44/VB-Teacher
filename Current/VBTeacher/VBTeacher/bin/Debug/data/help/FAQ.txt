@@ -1,0 +1,19 @@
+- How do I install VBTeacher? 
+
+You don't. It just... runs when you run the executable. P.s. You don't have to uninstall it either.
+
+- It's not running. You said, "It just... runs" but... it's not. Why won't VBTeacher run? 
+
+Wow someone's being a real smart alec. Although I may have been a little arrogant about it just running. Touché. It could be you need to update Windows or .net framework. You can consult our forums at http://www.google.com.
+
+- Can I run VBTeacher on a Mac or other OSs? 
+
+No. Yes. Maybe. Visual Basic is a Windows based program and VBTeacher was made using VB. So it can't run on Mac OSX.
+
+- Wait...You said, "Yes" to the above question and then you said "it can't run on Mac OSX"? 
+
+What?! No I didn't...oh wait...yea, I did. To be fair I did say, "No" first but i see what you getting at. Yes you can run VBTeacher on Linux, Mac OSX, or BSD through the use of a program call Wine. https://www.winehq.org/
+
+- Why are is the text on the left turning purple and not red? 
+
+Programmers...smh. At least you’re reading the Help files. It means that you've read that section of VBTeacher. So you know where you left off.  

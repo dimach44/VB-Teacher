@@ -1,0 +1,66 @@
+<!-- Treeview node structures -->
+<Tutorials>
+	<Tutorial Title = "If Then Else">
+		<Lesson>Overview</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Review</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+
+	<Tutorial Title = "Select Case">
+		<Lesson>Overview</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Review</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+	
+	<Tutorial Title = "Try Catch Finally">
+		<Lesson>Overview</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Review</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+	
+	<Tutorial Title = "While">
+		<Lesson>Overview</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Review</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+
+	<Tutorial Title = "Do Loop">
+		<Lesson>Overview</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Review</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+
+	<Tutorial Title = "For Next">
+		<Lesson>Overview</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Review</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+
+	<Tutorial Title = "Foreach Next">
+		<Lesson>Overview</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Review</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+	
+	<Tutorial Title = "Help">
+		<Lesson>Introduction</Lesson>
+		<Lesson>Example</Lesson>
+		<Lesson>Selection</Lesson>
+		<Lesson>Section Breakdown</Lesson>
+		<Lesson>FAQ</Lesson>
+	</Tutorial>
+</Tutorials>

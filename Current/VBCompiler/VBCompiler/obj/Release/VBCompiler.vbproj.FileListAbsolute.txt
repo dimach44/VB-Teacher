@@ -1,0 +1,22 @@
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Release\VBCompiler.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Release\VBCompiler.exe
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Release\VBCompiler.pdb
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Release\VBCompiler.xml
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Release\VBCompiler.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Release\VBCompiler.vbproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Release\VBCompiler.exe
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Release\VBCompiler.xml
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Release\VBCompiler.pdb
+R:\Src\C#\VBCompiler\VBCompiler\bin\Release\VBCompiler.exe.config
+R:\Src\C#\VBCompiler\VBCompiler\obj\Release\VBCompiler.exe
+R:\Src\C#\VBCompiler\VBCompiler\obj\Release\VBCompiler.xml
+R:\Src\C#\VBCompiler\VBCompiler\obj\Release\VBCompiler.pdb
+R:\Src\C#\VBCompiler\VBCompiler\bin\Release\VBCompiler.exe
+R:\Src\C#\VBCompiler\VBCompiler\bin\Release\VBCompiler.pdb
+R:\Src\C#\VBCompiler\VBCompiler\bin\Release\VBCompiler.xml
+R:\Src\C#\VBCompiler\VBCompiler\obj\Release\VBCompiler.Resources.resources
+R:\Src\C#\VBCompiler\VBCompiler\obj\Release\VBCompiler.vbproj.GenerateResource.Cache
+F:\Dropbox\Dropbox\CS 245 Programs\Project 1\Current\VBCompiler\VBCompiler\bin\Release\VBCompiler.exe.config
+F:\Dropbox\Dropbox\CS 245 Programs\Project 1\Current\VBCompiler\VBCompiler\obj\Release\VBCompiler.exe
+F:\Dropbox\Dropbox\CS 245 Programs\Project 1\Current\VBCompiler\VBCompiler\obj\Release\VBCompiler.xml
+F:\Dropbox\Dropbox\CS 245 Programs\Project 1\Current\VBCompiler\VBCompiler\obj\Release\VBCompiler.pdb

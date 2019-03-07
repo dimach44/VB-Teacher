@@ -1,0 +1,3 @@
+- About VBTeacher
+
+VBTeacher is a Visal Basic tutorial program. VBTeacher will show you how to create and understand loop and select structures using Visual Basic. 

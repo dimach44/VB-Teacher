@@ -1,0 +1,9 @@
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Release\VBCompiler.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Release\VBCompiler.exe
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Release\VBCompiler.pdb
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\bin\Release\VBCompiler.xml
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Release\VBCompiler.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Release\VBCompiler.vbproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Release\VBCompiler.exe
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Release\VBCompiler.xml
+c:\users\chris\documents\visual studio 2013\Projects\VBCompiler\VBCompiler\obj\Release\VBCompiler.pdb
