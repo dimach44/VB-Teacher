@@ -1,0 +1,27 @@
+- Selecting a structure
+
+On the left side of any page you can select any of the seven loop/select structure;
+
+> For...next
+> While...End While
+> Do...Loop
+> If..Then...Else
+> Select Case...
+> For Each...Next
+> Try...Catch...Finally
+
+- Navigation 
+
+After you select a Loop/Select structure you can press the "Next" button or click on the left side of the screen to get to the next section of that Loop/Select structure. Press the "Previous" button to go back back to the previous screen.
+
+- Progress 
+
+To keep track of your progress when you read a new screen the title of that screen will be colored red on the left side.
+
+- Loop/Select Section Overview
+
+> The first screen in a Loop/Select structure in VBTeacher will explain how the structure is used.
+> The second screen will show the structure and format of the Loop/Select statement.
+> The third screen will give an example of the implementation of the Loop/Select statement.
+> The fourth screen will give an overview of what you just learned
+> The fifth screen will present questions to test your knowledge and let you write and test the code of the Loop/Select structure.

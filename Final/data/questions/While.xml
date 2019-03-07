@@ -1,0 +1,19 @@
+<Test>
+	<Question>
+		<Title>Which statement(s) are optional in a while loop?</Title>
+		<Answer_0>Exit While</Answer_0>
+		<Answer_1>Continue While </Answer_1>
+		<Answer_2>End While</Answer_2>
+		<Answer_3>Both A and B</Answer_3>
+		<Correct>3</Correct>
+	</Question>
+	
+	<Question>
+		<Title>If the condition for the while loop is set to false what happens?</Title>
+		<Answer_0>The loop will execute once</Answer_0>
+		<Answer_1>The loop will not execute</Answer_1>
+		<Answer_2>The loop will execute indefinitely</Answer_2>
+		<Answer_3>While loops cannot have a false condition</Answer_3>
+		<Correct>1</Correct>
+	</Question>
+</Test>

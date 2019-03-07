@@ -1,0 +1,19 @@
+<Test>
+	<Question>
+		<Title>A Foreach... Next Loop:</Title>
+		<Answer_0>Conditionally executes a group of statements, depending on the value of an expression.</Answer_0>
+		<Answer_1>Declares the name, parameters, and code that define a Function procedure.</Answer_1>
+		<Answer_2>Repeats a group of statements for each element in a collection.</Answer_2>
+		<Answer_3>Repeats a group of statements a specified number of times</Answer_3>
+		<Correct>2</Correct>
+	</Question>
+	
+	<Question>
+		<Title>Which of the following is an essential part of Foreach... Next loops?</Title>
+		<Answer_0>Continue For</Answer_0>
+		<Answer_1>Exit For</Answer_1>
+		<Answer_2>Datatype</Answer_2>
+		<Answer_3>Element</Answer_3>
+		<Correct>3</Correct>
+	</Question>
+</Test>

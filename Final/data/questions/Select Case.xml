@@ -1,0 +1,10 @@
+<Test>
+	<Question>
+		<Title>What are the three  main parts of a select case?</Title>
+		<Answer_0>Variable, Case Statement, Case Code Block</Answer_0>
+		<Answer_1>Constant, Case Statement, Case Condition Block</Answer_1>
+		<Answer_2>Variable, Case String Value, Index Value</Answer_2>
+		<Answer_3>None of the above.</Answer_3>
+		<Correct>0</Correct>
+	</Question>
+</Test>

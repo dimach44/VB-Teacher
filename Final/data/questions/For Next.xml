@@ -1,0 +1,10 @@
+<Test>
+	<Question>
+		<Title>What is the difference between a While Loop and For Loop?</Title>
+		<Answer_0>A while loop runs a set amount of times, for loop is indefinite.</Answer_0>
+		<Answer_1>A while loop runs an indefinite amount of times, for loop is set amount.</Answer_1>
+		<Answer_2>There are no differences.</Answer_2>
+		<Answer_3>None of the above.</Answer_3>
+		<Correct>1</Correct>
+	</Question>
+</Test>

@@ -1,0 +1,58 @@
+<!-- Treeview node structures -->
+<Tutorials>
+	<Tutorial Title = "While">
+		<Lesson>Introduction</Lesson>
+		<Lesson>Basics</Lesson>
+		<Lesson>Implementation</Lesson>
+		<Lesson>Overview</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+
+	<Tutorial Title = "Do Loop">
+		<Lesson>Introduction</Lesson>
+		<Lesson>Basics</Lesson>
+		<Lesson>Implementation</Lesson>
+		<Lesson>Overview</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+	
+	<Tutorial Title = "If Then Else">
+		<Lesson>Introduction</Lesson>
+		<Lesson>Basics</Lesson>
+		<Lesson>Implementation</Lesson>
+		<Lesson>Overview</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+
+	<Tutorial Title = "For Next">
+		<Lesson>Introduction</Lesson>
+		<Lesson>Basics</Lesson>
+		<Lesson>Implementation</Lesson>
+		<Lesson>Overview</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+
+	<Tutorial Title = "Select Case">
+		<Lesson>Introduction</Lesson>
+		<Lesson>Basics</Lesson>
+		<Lesson>Implementation</Lesson>
+		<Lesson>Overview</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+
+	<Tutorial Title = "Foreach Next">
+		<Lesson>Introduction</Lesson>
+		<Lesson>Basics</Lesson>
+		<Lesson>Implementation</Lesson>
+		<Lesson>Overview</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+
+	<Tutorial Title = "Try Catch Finally">
+		<Lesson>Introduction</Lesson>
+		<Lesson>Basics</Lesson>
+		<Lesson>Implementation</Lesson>
+		<Lesson>Overview</Lesson>
+		<Lesson>Questions</Lesson>
+	</Tutorial>
+</Tutorials>

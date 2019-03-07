@@ -1,0 +1,19 @@
+<Test>
+	<Question>
+		<Title>What does the If Then Else statement tell the program to do?</Title>
+		<Answer_0>To execute a certain section of code only if a particular test evaluates true.</Answer_0>
+		<Answer_1>To execute a certain section of code multiple times based on a value.</Answer_1>
+		<Answer_2>To execute a loop infinitely.</Answer_2>
+		<Answer_3>None of the above.</Answer_3>
+		<Correct>0</Correct>
+	</Question>
+	
+	<Question>
+		<Title>Which of the following is a valid If... Then... Else statement?</Title>
+		<Answer_0>pricelabel.text > 0 AndAlso pricelabel.text &lt; 10</Answer_0>
+		<Answer_1>sales > 500D OrElse &lt; 800D</Answer_1>
+		<Answer_2>number > 100 AndAlso number &lt; 1000</Answer_2>
+		<Answer_3>state.ToUpper() = "Sydney" OrElse state.ToUpper = "Melbourne"</Answer_3>
+		<Correct>2</Correct>
+	</Question>
+</Test>
